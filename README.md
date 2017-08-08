@@ -1,2 +1,2 @@
 # ColorPicker
-A fun little game using dom manipulation
+A fun little game using DOM manipulation with jquery.
